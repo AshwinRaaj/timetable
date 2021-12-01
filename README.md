@@ -128,7 +128,7 @@ Execute the program
 </html>
 ~~~
 # OUTPUT
-![Output 1](os.png)
+![Output 1](tts.png)
 ![Output 2](sc.png)
 ![Output 3](validator.png)
 
